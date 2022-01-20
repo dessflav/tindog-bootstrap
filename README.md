@@ -1,1 +1,1 @@
-TinDog Starting Files
+Training exercise using html and css/boostrap
