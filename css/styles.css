@@ -23,18 +23,12 @@ p {
   color: #8f8f8f;
 }
 
-/* headings */
-.big-heading{
-  font-size: 3.5rem;  
+/* Headings */
+.big-heading {
+  font-size: 3.5rem;
   font-weight: 900;
   line-height: 1.5;
 }
-
-/* .big-heading-buttons{
-  position: absolute;
-
-
-} */
 
 .section-heading {
   font-style: 3rem;
@@ -45,16 +39,18 @@ p {
   padding: 7% 15%;
 }
 
-/* sections color */
+/* Sections Color */
 
-.colored-section{
+.colored-section {
   background-color: #ff4c68;
   color: #fff;
 }
 
-.white-section{
+.white-section {
   background-color: white;
 }
+
+/* Nav */
 
 .navbar {
   padding-bottom: 4.5rem;
@@ -82,8 +78,8 @@ p {
   margin: 5% 3% 5% 0;
 }
 
-/* title section */
-#title .container-fluid{
+/* Title Section */
+#title .container-fluid {
   padding: 3% 15% 7%;
   text-align: left;
 }
@@ -94,7 +90,7 @@ p {
   width: 15%;
 }
 
-/* features-section */
+/* Features Section */
 #features {
   position: relative;
 }
@@ -156,8 +152,7 @@ p {
   line-height: 1.5;
 }
 
-/* <!-- Call to Action --> */
-
+/* Call to Action */
 
 .big-heading {
   font-family: "Montserrat", sans-serif;
@@ -178,7 +173,7 @@ p {
   }
 }
 
-/* footer */
+/* Footer */
 .social-media-icon {
   margin: 20px 10px;
 }
